@@ -94,17 +94,47 @@ A short, practical Git and GitHub reference guide
 ### Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=droltr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=droltr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=droltr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=droltr&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=droltr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=droltr&layout=compact&theme=default&hide_border=true" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=droltr&theme=tokyonight&hide_border=true&background=0d1117" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=droltr&theme=tokyonight&hide_border=true&background=0d1117" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=droltr&theme=default&hide_border=true" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=droltr&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=droltr&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
+    <img src="https://github-profile-trophy.vercel.app/?username=droltr&theme=flat&no-frame=true&row=1&column=6&margin-w=8" />
+  </picture>
 </p>
+
+<br>
+
+### Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/droltr/droltr/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/droltr/droltr/output/snake.svg" />
+    <img alt="contribution snake animation" src="https://raw.githubusercontent.com/droltr/droltr/output/snake.svg" />
+  </picture>
+</p>
+
+<br>
+
+### Acknowledgments
+
+[**community-scripts / ProxmoxVE**](https://community-scripts.org/scripts) — the [Proxmox VE Helper-Scripts](https://github.com/community-scripts/ProxmoxVE) project this work builds on for LXC provisioning and automation. Great community effort, worth checking out if you run Proxmox.
 
 <br>
 
