@@ -9,7 +9,7 @@
 
 <br>
 
-### 🧭 About
+### About
 
 Long-standing focus on **Proxmox VE**, **Fortinet**, **Linux hardening**, and network diagnostics. More recently, learning to work with AI-assisted development tools — bringing years of hands-on IT experience into a new kind of workflow.
 
@@ -17,7 +17,7 @@ In spare time, occasionally reverse-engineers hardware — USB protocols for RGB
 
 <br>
 
-### 🛠️ Toolbox
+### Toolbox
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,ts,react,bash,powershell,linux,docker,git&theme=dark" />
@@ -30,30 +30,54 @@ In spare time, occasionally reverse-engineers hardware — USB protocols for RGB
 
 <br>
 
-### 🔧 Original Projects
-<sub>Built from scratch, solo</sub>
+### Recent Work
+<sub>RGB, thermal & display management on Linux</sub>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**[game-lighting](https://github.com/droltr/game-lighting)** 🆕
+**[game-lighting](https://github.com/droltr/game-lighting)**
 OpenRGB SDK client that follows CPU temperature and switches the keyboard to per-key game layouts on focus
 
-**[MysticLight](https://github.com/droltr/MysticLight)** 🆕
+**[MysticLight](https://github.com/droltr/MysticLight)**
 Temperature-driven, game-aware RGB lighting for MSI motherboards via OpenRGB — board, RAM, keyboard, and mouse follow CPU temp
+
+**[coolerdash](https://github.com/droltr/coolerdash)**
+CoolerControl plug-in for real-time thermal/LCD display, adapted for Bazzite
+
+</td>
+<td width="50%" valign="top">
+
+**[zalman-Alpha2-DS-LCD-Linux](https://github.com/droltr/zalman-Alpha2-DS-LCD-Linux)**
+Native Linux port of the Zalman OZ display app — reverse-engineered USB protocol for the AIO's LCD
+
+**[liquidctl](https://github.com/droltr/liquidctl)**
+Cross-platform AIO cooler driver, extended with Zalman device support
+
+</td>
+</tr>
+</table>
+
+<br>
+
+### More Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 **[fortinet-log-izleme](https://github.com/droltr/fortinet-log-izleme)**
 React + TypeScript app for FortiGate log monitoring and analysis
+
+**[lxc-auto-scaler](https://github.com/droltr/lxc-auto-scaler)**
+LXC AutoScale installer for Proxmox VE with CPU/memory monitoring
 
 **[Network_Test_Tool](https://github.com/droltr/Network_Test_Tool)**
 Network diagnostic and troubleshooting utility (Python/PyQt5)
 
 </td>
 <td width="50%" valign="top">
-
-**[lxc-auto-scaler](https://github.com/droltr/lxc-auto-scaler)**
-LXC AutoScale installer for Proxmox VE with CPU/memory monitoring
 
 **[windows-cli-context-menu](https://github.com/droltr/windows-cli-context-menu)**
 Adds PowerShell, Copilot, Claude AI, and Git to the Windows 11 context menu
@@ -67,32 +91,7 @@ A short, practical Git and GitHub reference guide
 
 <br>
 
-### 🤝 Built on Other Projects
-<sub>Forks and contributions — extended or adapted for my own hardware setup</sub>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**[coolerdash](https://github.com/droltr/coolerdash)** 🆕
-Fork of [damachine/coolerdash](https://github.com/damachine/coolerdash) — CoolerControl plug-in for real-time thermal/LCD display, adapted for Bazzite
-
-**[zalman-Alpha2-DS-LCD-Linux](https://github.com/droltr/zalman-Alpha2-DS-LCD-Linux)** 🆕
-Fork of [bl3xand/zalman-Alpha2-DS-LCD-Linux](https://github.com/bl3xand/zalman-Alpha2-DS-LCD-Linux) — native Linux port of the Zalman OZ display app
-
-</td>
-<td width="50%" valign="top">
-
-**[liquidctl](https://github.com/droltr/liquidctl)**
-Fork of [liquidctl/liquidctl](https://github.com/liquidctl/liquidctl) — cross-platform AIO cooler driver, extended with Zalman device support
-
-</td>
-</tr>
-</table>
-
-<br>
-
-### 📊 Stats
+### Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=droltr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" />
