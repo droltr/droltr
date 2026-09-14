@@ -30,7 +30,34 @@ In spare time, occasionally reverse-engineers hardware — USB protocols for RGB
 
 <br>
 
-### 📦 Projects
+### 🔥 Latest Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[game-lighting](https://github.com/droltr/game-lighting)** 🎮
+OpenRGB SDK client that follows CPU temperature and switches the keyboard to per-key game layouts on focus
+
+**[MysticLight](https://github.com/droltr/MysticLight)** 💡
+Temperature-driven, game-aware RGB lighting for MSI motherboards via OpenRGB — board, RAM, keyboard, and mouse follow CPU temp
+
+</td>
+<td width="50%" valign="top">
+
+**[coolerdash](https://github.com/droltr/coolerdash)** 🌡️
+CoolerControl plug-in extending LCD functionality for real-time thermal and color display (Bazzite / Linux)
+
+**[zalman-Alpha2-DS-LCD-Linux](https://github.com/droltr/zalman-Alpha2-DS-LCD-Linux)** 🖥️
+Native Linux port of the Zalman OZ application — reverse-engineered USB protocol for the AIO's LCD display
+
+</td>
+</tr>
+</table>
+
+<br>
+
+### 📦 Other Projects
 
 <table>
 <tr>
@@ -50,9 +77,6 @@ Network diagnostic and troubleshooting utility (Python/PyQt5)
 
 **[windows-cli-context-menu](https://github.com/droltr/windows-cli-context-menu)**
 Adds PowerShell, Copilot, Claude AI, and Git to the Windows 11 context menu
-
-**[MysticLight](https://github.com/droltr/MysticLight)**
-Temperature-driven, game-aware RGB lighting via OpenRGB
 
 **[git-github-guide](https://github.com/droltr/git-github-guide)**
 A short, practical Git and GitHub reference guide
