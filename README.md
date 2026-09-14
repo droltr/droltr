@@ -91,35 +91,6 @@ A short, practical Git and GitHub reference guide
 
 <br>
 
-### Stats
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=droltr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=droltr&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=droltr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=droltr&layout=compact&theme=default&hide_border=true" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=droltr&theme=tokyonight&hide_border=true&background=0d1117" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=droltr&theme=default&hide_border=true" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=droltr&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
-    <img src="https://github-profile-trophy.vercel.app/?username=droltr&theme=flat&no-frame=true&row=1&column=6&margin-w=8" />
-  </picture>
-</p>
-
-<br>
-
 ### Activity
 
 <p align="center">
