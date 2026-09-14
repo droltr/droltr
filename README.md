@@ -1,22 +1,22 @@
 <h1 align="center">Hi, I'm droltr 👋</h1>
 
 <p align="center">
-  <em>Learning networking, virtualization, and Linux systems administration — building tools along the way.</em>
+  <em>Computer engineer with 30 years in IT — networking, virtualization, and systems administration.</em>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=New+to+the+field+and+learning+every+day;Proxmox+VE+%7C+Fortinet+%7C+Linux+basics;Building+small+tools+to+practice+what+I+learn" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=30%2B+years+in+IT+%26+networking;Proxmox+VE+%7C+Fortinet+%7C+Linux+hardening;Now+exploring+AI-assisted+development" alt="Typing SVG" />
 </p>
 
 ---
 
 ### About Me
 
-- 🌱 I'm a beginner in IT/networking, currently learning **Linux system administration**, **virtualization (Proxmox VE)**, and **network fundamentals**
-- 🔧 I build small, practical tools to reinforce what I learn — network diagnostics, log monitoring, automation scripts
-- 🛠️ On the side, I explore hardware reverse-engineering as a hobby (RGB controllers, AIO LCD displays)
-- 📚 I write things down as I learn them — see my Git & GitHub guide below
-- 💬 Open to feedback — still early in this journey, always looking to improve
+- 🎓 Computer engineer with **30 years of experience** in IT — networking, systems administration, and infrastructure
+- 🔧 Long-time focus: **Proxmox VE virtualization**, **Fortinet security**, **Linux hardening**, and network diagnostics
+- 🤖 Newer territory for me: **AI-assisted development** (Claude Code) — applying decades of IT experience to a new way of building tools
+- 🛠️ Hobby side: hardware reverse-engineering — USB protocols for RGB controllers and AIO LCD displays
+- 📚 I write things down as I go — see my Git & GitHub guide below
 
 ### Featured Projects
 
