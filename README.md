@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm droltr 👋</h1>
 
 <p align="center">
-  <em>Computer engineer with 30 years in IT — networking, virtualization, and systems administration.</em>
+  <em> Networking, virtualization, and systems administration.</em>
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ### About Me
 
-- 🎓 Computer engineer with **30 years of experience** in IT — networking, systems administration, and infrastructure
+- 🎓 IT — networking, systems administration, and infrastructure
 - 🔧 Long-time focus: **Proxmox VE virtualization**, **Fortinet security**, **Linux hardening**, and network diagnostics
 - 🤖 Newer territory for me: **AI-assisted development** (Claude Code) — applying decades of IT experience to a new way of building tools
 - 🛠️ Hobby side: hardware reverse-engineering — USB protocols for RGB controllers and AIO LCD displays
