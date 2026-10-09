@@ -44,7 +44,7 @@ CoolerControl device-service plugin that brings the Zalman ALPHA2 DS AIO LCD int
 Linux driver for the Zalman ALPHA2 DS LCD (fork of bl3xand's reverse-engineered protocol, with an embedded client for host apps)
 
 **[coolerdash](https://github.com/droltr/coolerdash)**
-CoolerControl LCD dashboard plug-in, with a display profile for the square Zalman panel
+CoolerControl LCD dashboard plug-in (fork), used to drive the Zalman panel
 
 </td>
 <td width="50%" valign="top">
