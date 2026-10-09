@@ -31,29 +31,32 @@ In spare time, occasionally reverse-engineers hardware — USB protocols for RGB
 <br>
 
 ### Recent Work
-<sub>RGB, thermal & display management on Linux</sub>
+<sub>RGB, thermal & display management on Linux (Bazzite)</sub>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**[game-lighting](https://github.com/droltr/game-lighting)**
-OpenRGB SDK client that follows CPU temperature and switches the keyboard to per-key game layouts on focus
+**[cc-plugin-zalman-lcd](https://github.com/droltr/cc-plugin-zalman-lcd)**
+CoolerControl device-service plugin that brings the Zalman ALPHA2 DS AIO LCD into CoolerControl, without patching CoolerControl or liquidctl
 
-**[MysticLight](https://github.com/droltr/MysticLight)**
-Temperature-driven, game-aware RGB lighting for MSI motherboards via OpenRGB — board, RAM, keyboard, and mouse follow CPU temp
+**[zalman-Alpha2-DS-LCD-Linux](https://github.com/droltr/zalman-Alpha2-DS-LCD-Linux)**
+Linux driver for the Zalman ALPHA2 DS LCD (fork of bl3xand's reverse-engineered protocol, with an embedded client for host apps)
 
 **[coolerdash](https://github.com/droltr/coolerdash)**
-CoolerControl plug-in for real-time thermal/LCD display, adapted for Bazzite
+CoolerControl LCD dashboard plug-in, with a display profile for the square Zalman panel
 
 </td>
 <td width="50%" valign="top">
 
-**[zalman-Alpha2-DS-LCD-Linux](https://github.com/droltr/zalman-Alpha2-DS-LCD-Linux)**
-Native Linux port of the Zalman OZ display app — reverse-engineered USB protocol for the AIO's LCD
+**[MysticLight](https://github.com/droltr/MysticLight)**
+Temperature-driven, game-aware RGB lighting for the MSI B850 Tomahawk via OpenRGB: board, RAM, keyboard and mouse follow CPU temperature
 
-**[liquidctl](https://github.com/droltr/liquidctl)**
-Cross-platform AIO cooler driver, extended with Zalman device support
+**[game-lighting](https://github.com/droltr/game-lighting)**
+OpenRGB SDK client: CPU-temperature colours plus per-key game layouts on window focus
+
+**[msi-mystic-light-re](https://github.com/droltr/msi-mystic-light-re)**
+Reverse-engineering notes for the MSI Mystic Light USB protocol variant on this board
 
 </td>
 </tr>
